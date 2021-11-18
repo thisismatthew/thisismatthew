@@ -1,6 +1,4 @@
-## This is Matthew J (He/Him) 🕹
-
-_Welcome to my projects! Come join me in harshly judging my code from a year ago._
+## _Welcome to my projects! Come join me in harshly judging my code from a year ago._
 ___
 
 **What I'm working on**
