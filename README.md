@@ -1,9 +1,10 @@
 ## _Welcome to my projects! Come join me in harshly judging my code from a year ago._
 ___
+**What I'm Up-to**
+I'm currently working as a game designer at Firemonkeys on Need For Speed: No Limits. Other than that I'm tinkering on jam games and little side projects when able. 
 
-**What I'm working on**
-
-I'm currently working a residency at The Arcade Melbourne as a part of thier SMART program. While I'm there I'll be refactoring my game _My Arms Are Longer Now_ so that it is a lot more organised and less so game-jam-code. I'll also be putting the final touches on another game _Bottled!_ that i have been working on as part of my final capstone project at Swinburne University. 
+**My Latest Projects**
+At the begining of 2022 I completed a residency at The Arcade Melbourne as a part of thier SMART program. While I was there I was developing my game _My Arms Are Longer Now_. I've also been putting the final touches on another game _Bottled!_ that i was working on as part of my final capstone project at Swinburne University in 2021. 
 ___
 
 **What I do here**
